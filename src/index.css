@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-yaprak: #2f6b4f;
+  --color-yaprak-acik: #edf3ef;
+  --color-terrakota: #c97b5a;
+  --color-krem: #f5f0e8;
+  --color-koyu: #23302a;
+  --font-baslik: "Georgia", "Times New Roman", serif;
+}
+
+body {
+  background-color: var(--color-krem);
+  color: var(--color-koyu);
+}
