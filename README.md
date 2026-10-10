@@ -4,7 +4,7 @@ Ev bitkilerinin ne zaman sulanması gerektiğini takip eden tek sayfalık bir Re
 uygulaması. Veriler tarayıcının LocalStorage'ında tutulur; sunucu veya veritabanı
 gerekmez.
 
-**Canlı demo:** _(Netlify adresi buraya)_
+**Canlı demo:** https://dolleis-sulama-takibi.netlify.app
 
 ![Uygulama ekran görüntüsü](ekran-goruntuleri/uygulama.jpg)
 
