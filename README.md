@@ -6,7 +6,7 @@ gerekmez.
 
 **Canlı demo:** https://dolleis-sulama-takibi.netlify.app
 
-![Uygulama ekran görüntüsü](ekran-goruntuleri/uygulama.jpg)
+![Uygulama ekran görüntüsü](ekran-goruntuleri/uygulama.png)
 
 ## Neden bu konu
 
